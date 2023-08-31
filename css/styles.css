@@ -4,6 +4,48 @@ body {
   background-color: #ffffff;
 }
 
+h1 {
+  color: #fff;
+}
+
 ul {
   list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  color: #2e2f42;
+}
+
+.logo-accent {
+  color: #4d5ae5;
+}
+
+.nav-link {
+  color: #2e2f42;
+}
+
+.nav-link:hover {
+  color: #404bbf;
+}
+
+.nav-mail {
+  color: #434455;
+}
+
+.nav-mail:hover {
+  color: #404bbf;
+}
+
+.nav-phone {
+  color: #434455;
+}
+
+.hero-section {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
 }
